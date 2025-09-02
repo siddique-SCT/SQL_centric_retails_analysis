@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,94,"Special Offer on Green Chillies (Sindh) 250g","fixed",150,"2021-08-22","2021-09-05",8,2021
+2,73,"Special Offer on Ponam Black Chana 1kg","percentage",10,"2021-08-15","2021-08-28",8,2021
+3,131,"Special Offer on Pedigree Dog Food Chunkies 100g","percentage",15,"2021-08-08","2021-08-16",8,2021
+4,7,"Special Offer on Kisan Sunflower Oil 1L","fixed",200,"2021-08-15","2021-08-28",8,2021
+5,83,"Special Offer on Ponam Cornflour 1kg","percentage",5,"2021-08-12","2021-08-25",8,2021
+6,79,"Special Offer on Ponam Atta Chakki 5kg","percentage",15,"2021-08-15","2021-08-20",8,2021
+7,111,"Special Offer on Pepsi 1.5L","percentage",10,"2021-08-07","2021-08-12",8,2021
+8,100,"Special Offer on Cucumber (Desi) 500g","percentage",20,"2021-08-08","2021-08-17",8,2021
+9,109,"Special Offer on Orange (Kinnow) 1kg","percentage",25,"2021-08-13","2021-08-26",8,2021
+10,88,"Special Offer on National Haleem Masala 43g","percentage",20,"2021-08-02","2021-08-08",8,2021
+11,50,"Special Offer on Westpoint Food Processor Kitchen Chef 2805","fixed",100,"2021-08-11","2021-08-17",8,2021
+12,130,"Special Offer on Whiskas Cat Food Pouch 85g","percentage",15,"2021-08-19","2021-08-24",8,2021
+13,4,"Special Offer on Soya Supreme Cooking Oil 1L","percentage",10,"2021-08-08","2021-08-16",8,2021
+14,142,"Special Offer on Almonds (Badam) 1kg","fixed",100,"2021-08-16","2021-08-30",8,2021
+15,74,"Special Offer on Ponam Daal Mash 1kg","fixed",100,"2021-08-08","2021-08-21",8,2021
+16,20,"Special Offer on Dairy Omung Milk 1L","percentage",15,"2021-08-08","2021-08-22",8,2021

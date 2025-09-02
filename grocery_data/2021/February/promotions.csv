@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,111,"Special Offer on Pepsi 1.5L","percentage",5,"2021-02-01","2021-02-04",2,2021
+2,79,"Special Offer on Ponam Atta Chakki 5kg","fixed",100,"2021-02-06","2021-02-14",2,2021
+3,64,"Special Offer on Young's Chocolate Spread 600g","fixed",200,"2021-02-06","2021-02-10",2,2021
+4,152,"Special Offer on Harpic Toilet Cleaner 500ml","percentage",5,"2021-02-02","2021-02-13",2,2021
+5,81,"Special Offer on Ponam Maida 1kg","percentage",10,"2021-02-18","2021-02-27",2,2021
+6,75,"Special Offer on Ponam Black Eyed Beans 500g","percentage",5,"2021-02-05","2021-02-10",2,2021
+7,133,"Special Offer on Borges Olive Oil Extra Virgin 1L","percentage",25,"2021-02-10","2021-02-20",2,2021
+8,95,"Special Offer on Potato White 1kg","fixed",100,"2021-02-02","2021-02-06",2,2021
+9,106,"Special Offer on Mango (Sindhri) 1kg","fixed",200,"2021-02-16","2021-02-25",2,2021
+10,142,"Special Offer on Almonds (Badam) 1kg","fixed",50,"2021-02-06","2021-02-15",2,2021
+11,146,"Special Offer on Raisins (Kishmish) 1kg","percentage",5,"2021-02-06","2021-02-17",2,2021
+12,25,"Special Offer on Comelle Condensed Milk 397g","percentage",5,"2021-02-11","2021-02-23",2,2021
+13,24,"Special Offer on Polac Condensed Milk 1kg","percentage",20,"2021-02-15","2021-02-23",2,2021
+14,42,"Special Offer on TCL 48"" Smart LED TV","fixed",200,"2021-02-01","2021-02-09",2,2021
+15,5,"Special Offer on Eva Cooking Oil 1L","percentage",25,"2021-02-04","2021-02-11",2,2021
+16,36,"Special Offer on Head & Shoulders Dry Scalp Care 185ml","fixed",150,"2021-02-10","2021-02-22",2,2021

@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,21,"Special Offer on Dayfresh Full Cream Milk 250ml","fixed",50,"2021-09-11","2021-09-19",9,2021
+2,111,"Special Offer on Pepsi 1.5L","percentage",20,"2021-09-02","2021-09-12",9,2021
+3,24,"Special Offer on Polac Condensed Milk 1kg","percentage",5,"2021-09-13","2021-09-20",9,2021
+4,60,"Special Offer on Nutro Wafers Chocolate 80g","fixed",100,"2021-09-09","2021-09-23",9,2021
+5,10,"Special Offer on Barkat Cooking Oil 1L","fixed",200,"2021-09-17","2021-10-01",9,2021
+6,12,"Special Offer on Eva Vegetable Ghee 1kg","fixed",150,"2021-09-07","2021-09-12",9,2021
+7,84,"Special Offer on Ponam Suji 500g","fixed",150,"2021-09-20","2021-09-25",9,2021
+8,53,"Special Offer on Menu Comp Chicken Nuggets 1kg","percentage",25,"2021-09-20","2021-09-28",9,2021
+9,147,"Special Offer on Dates (Khajoor) 1kg","fixed",100,"2021-09-17","2021-09-20",9,2021
+10,132,"Special Offer on Aquafresh Pet Vitamins 100g","percentage",15,"2021-09-21","2021-09-25",9,2021
+11,129,"Special Offer on MamyPoko Pants Large","fixed",100,"2021-09-05","2021-09-08",9,2021
+12,156,"Special Offer on Aluminum Foil 5m","percentage",25,"2021-09-11","2021-09-21",9,2021
+13,56,"Special Offer on K&N's Burger Patties 16's 1070g","fixed",100,"2021-09-22","2021-10-06",9,2021
+14,40,"Special Offer on Ariel Machine Detergent Powder 1kg","percentage",15,"2021-09-11","2021-09-22",9,2021
+15,100,"Special Offer on Cucumber (Desi) 500g","percentage",25,"2021-09-14","2021-09-21",9,2021
+16,76,"Special Offer on Ponam Daal Mix 500g","percentage",5,"2021-09-16","2021-09-30",9,2021

@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,52,"Special Offer on K&N's Chicken Nuggets 270g","fixed",150,"2021-11-20","2021-11-23",11,2021
+2,57,"Special Offer on K&N's Frankfurter Sausage 16's 720g","percentage",25,"2021-11-09","2021-11-18",11,2021
+3,25,"Special Offer on Comelle Condensed Milk 397g","fixed",150,"2021-11-02","2021-11-11",11,2021
+4,68,"Special Offer on Red Slanty Chips 100g","fixed",200,"2021-11-07","2021-11-18",11,2021
+5,31,"Special Offer on Saeed Ghani Rose Water 700ml","percentage",15,"2021-11-17","2021-11-30",11,2021
+6,81,"Special Offer on Ponam Maida 1kg","percentage",5,"2021-11-20","2021-11-23",11,2021
+7,36,"Special Offer on Head & Shoulders Dry Scalp Care 185ml","fixed",200,"2021-11-06","2021-11-09",11,2021
+8,64,"Special Offer on Young's Chocolate Spread 600g","fixed",200,"2021-11-09","2021-11-16",11,2021
+9,27,"Special Offer on Cosmee Soothing Gel Aloe Vera 80g","fixed",100,"2021-11-17","2021-11-20",11,2021
+10,99,"Special Offer on Cabbage 500g","percentage",10,"2021-11-18","2021-12-02",11,2021
+11,10,"Special Offer on Barkat Cooking Oil 1L","fixed",50,"2021-11-14","2021-11-18",11,2021
+12,15,"Special Offer on Mezan Ghee 1kg","fixed",100,"2021-11-19","2021-11-27",11,2021
+13,129,"Special Offer on MamyPoko Pants Large","fixed",200,"2021-11-14","2021-11-27",11,2021
+14,17,"Special Offer on Pak Pure Desi Ghee Tin 1kg","percentage",5,"2021-11-11","2021-11-16",11,2021
+15,60,"Special Offer on Nutro Wafers Chocolate 80g","percentage",20,"2021-11-09","2021-11-14",11,2021
+16,88,"Special Offer on National Haleem Masala 43g","fixed",200,"2021-11-19","2021-11-22",11,2021

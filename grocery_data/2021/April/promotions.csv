@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,25,"Special Offer on Comelle Condensed Milk 397g","percentage",15,"2021-04-01","2021-04-09",4,2021
+2,66,"Special Offer on Top Pops Orange Chips 150g","fixed",50,"2021-04-22","2021-05-01",4,2021
+3,85,"Special Offer on Ponam Rice Flour 500g","fixed",150,"2021-04-15","2021-04-19",4,2021
+4,11,"Special Offer on Kisan Ghee 1kg","percentage",10,"2021-04-11","2021-04-25",4,2021
+5,48,"Special Offer on Panasonic Steam Iron NI-JW650T","percentage",10,"2021-04-10","2021-04-18",4,2021
+6,148,"Special Offer on Dried Figs (Anjeer) 1kg","fixed",150,"2021-04-20","2021-04-27",4,2021
+7,24,"Special Offer on Polac Condensed Milk 1kg","percentage",5,"2021-04-17","2021-04-30",4,2021
+8,51,"Special Offer on PEL Microwave Oven 32L DW-132S","fixed",150,"2021-04-09","2021-04-21",4,2021
+9,111,"Special Offer on Pepsi 1.5L","fixed",100,"2021-04-22","2021-05-02",4,2021
+10,125,"Special Offer on Tang Lemon & Pepper 750g tub","percentage",10,"2021-04-10","2021-04-14",4,2021
+11,35,"Special Offer on Sunsilk Thick & Long Shampoo 185ml","percentage",10,"2021-04-19","2021-04-29",4,2021
+12,99,"Special Offer on Cabbage 500g","percentage",15,"2021-04-20","2021-04-25",4,2021
+13,8,"Special Offer on Dalda Cooking Oil 1L","fixed",100,"2021-04-21","2021-04-25",4,2021
+14,108,"Special Offer on Apple (Kala Kulu) 1kg","percentage",20,"2021-04-19","2021-04-29",4,2021
+15,18,"Special Offer on Haleeb Asli Full Cream Milk 1L","percentage",10,"2021-04-16","2021-04-25",4,2021
+16,61,"Special Offer on Euro Twin Chocolate Cake 32g","percentage",10,"2021-04-11","2021-04-20",4,2021

@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,85,"Special Offer on Ponam Rice Flour 500g","percentage",5,"2021-05-10","2021-05-24",5,2021
+2,5,"Special Offer on Eva Cooking Oil 1L","fixed",150,"2021-05-22","2021-06-05",5,2021
+3,2,"Special Offer on Canolive Cooking Oil 1L","percentage",10,"2021-05-11","2021-05-23",5,2021
+4,126,"Special Offer on Johnson's Baby Shampoo 200ml","percentage",15,"2021-05-07","2021-05-10",5,2021
+5,98,"Special Offer on Garlic (China) 250g","fixed",100,"2021-05-03","2021-05-06",5,2021
+6,22,"Special Offer on Olper's Milk Pouch 250ml","percentage",10,"2021-05-11","2021-05-22",5,2021
+7,82,"Special Offer on Ponam Baisan 1kg","percentage",25,"2021-05-04","2021-05-18",5,2021
+8,44,"Special Offer on PEL Refrigerator PRGD-22250 MG","fixed",150,"2021-05-04","2021-05-16",5,2021
+9,30,"Special Offer on Vince Extra Fair Cleansing Milk 120ml","percentage",25,"2021-05-10","2021-05-17",5,2021
+10,122,"Special Offer on Slice Juice 1L","fixed",100,"2021-05-18","2021-05-29",5,2021
+11,18,"Special Offer on Haleeb Asli Full Cream Milk 1L","fixed",200,"2021-05-11","2021-05-23",5,2021
+12,62,"Special Offer on Salman's Chocolate Syrup 623g","percentage",5,"2021-05-04","2021-05-09",5,2021
+13,116,"Special Offer on Popular Maza Juice 1L","fixed",150,"2021-05-12","2021-05-23",5,2021
+14,25,"Special Offer on Comelle Condensed Milk 397g","fixed",200,"2021-05-18","2021-05-25",5,2021
+15,19,"Special Offer on Habib Milk 1L","percentage",10,"2021-05-03","2021-05-17",5,2021
+16,137,"Special Offer on Frizzle Petta Bread","percentage",10,"2021-05-12","2021-05-19",5,2021

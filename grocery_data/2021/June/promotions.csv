@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,96,"Special Offer on Onion 500g","percentage",10,"2021-06-04","2021-06-15",6,2021
+2,60,"Special Offer on Nutro Wafers Chocolate 80g","percentage",10,"2021-06-20","2021-07-01",6,2021
+3,41,"Special Offer on Brite Antibacterial Detergent Powder 1kg","fixed",100,"2021-06-16","2021-06-27",6,2021
+4,47,"Special Offer on Panasonic Sandwich Maker NF-GW1","fixed",100,"2021-06-10","2021-06-21",6,2021
+5,91,"Special Offer on Chashnik Granulated Brown Sugar 500g","fixed",150,"2021-06-14","2021-06-20",6,2021
+6,110,"Special Offer on Pepsi Can","percentage",25,"2021-06-05","2021-06-18",6,2021
+7,13,"Special Offer on Tullo Ghee 1kg","percentage",20,"2021-06-13","2021-06-19",6,2021
+8,59,"Special Offer on K&N's Chicken Fun Nuggets 795g","fixed",100,"2021-06-15","2021-06-29",6,2021
+9,143,"Special Offer on Walnuts (Akhrot) 1kg","percentage",10,"2021-06-07","2021-06-12",6,2021
+10,54,"Special Offer on Dawn Paratha Plain Pack (5 pcs)","fixed",200,"2021-06-11","2021-06-18",6,2021
+11,44,"Special Offer on PEL Refrigerator PRGD-22250 MG","fixed",50,"2021-06-14","2021-06-20",6,2021
+12,114,"Special Offer on Mountain Dew Can","fixed",50,"2021-06-02","2021-06-09",6,2021
+13,65,"Special Offer on Popitos Salted Chips 75g","fixed",150,"2021-06-05","2021-06-14",6,2021
+14,121,"Special Offer on Maza Mango Juice 1L","percentage",20,"2021-06-02","2021-06-12",6,2021
+15,81,"Special Offer on Ponam Maida 1kg","fixed",200,"2021-06-09","2021-06-19",6,2021
+16,136,"Special Offer on Dawn Hot Dog Bun 60g","percentage",10,"2021-06-20","2021-06-27",6,2021

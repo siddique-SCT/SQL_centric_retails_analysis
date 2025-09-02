@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,112,"Special Offer on Coca Cola Can","percentage",15,"2021-10-07","2021-10-12",10,2021
+2,34,"Special Offer on Lifebuoy Shampoo Herbal 175ml","percentage",10,"2021-10-02","2021-10-16",10,2021
+3,117,"Special Offer on Any Time Juice 1L","fixed",100,"2021-10-09","2021-10-13",10,2021
+4,140,"Special Offer on Dawn Bread Brown","fixed",50,"2021-10-14","2021-10-23",10,2021
+5,43,"Special Offer on Samsung Galaxy A02S","fixed",50,"2021-10-03","2021-10-15",10,2021
+6,49,"Special Offer on Westpoint Juicer Blender Drymill 8813","percentage",15,"2021-10-11","2021-10-21",10,2021
+7,138,"Special Offer on Bake Parlor Fruit Bun","percentage",25,"2021-10-07","2021-10-21",10,2021
+8,94,"Special Offer on Green Chillies (Sindh) 250g","fixed",50,"2021-10-06","2021-10-14",10,2021
+9,16,"Special Offer on Haleeb Desi Ghee Tin 1kg","fixed",100,"2021-10-08","2021-10-15",10,2021
+10,104,"Special Offer on Turnip 500g","percentage",25,"2021-10-05","2021-10-08",10,2021
+11,155,"Special Offer on Garbage Bags (20 pcs) 15L","fixed",150,"2021-10-06","2021-10-13",10,2021
+12,9,"Special Offer on Golden Sun Canola Oil 1L","fixed",50,"2021-10-19","2021-11-01",10,2021
+13,40,"Special Offer on Ariel Machine Detergent Powder 1kg","percentage",25,"2021-10-22","2021-11-04",10,2021
+14,87,"Special Offer on National Biryani Masala 78g","percentage",10,"2021-10-15","2021-10-28",10,2021
+15,73,"Special Offer on Ponam Black Chana 1kg","percentage",20,"2021-10-14","2021-10-17",10,2021
+16,75,"Special Offer on Ponam Black Eyed Beans 500g","fixed",50,"2021-10-10","2021-10-24",10,2021

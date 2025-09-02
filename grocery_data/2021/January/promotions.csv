@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,149,"Special Offer on Dried Apricots (Khobani) 1kg","percentage",25,"2021-01-02","2021-01-12",1,2021
+2,140,"Special Offer on Dawn Bread Brown","percentage",5,"2021-01-23","2021-02-04",1,2021
+3,101,"Special Offer on Ginger 250g","fixed",100,"2021-01-18","2021-02-01",1,2021
+4,66,"Special Offer on Top Pops Orange Chips 150g","percentage",20,"2021-01-04","2021-01-11",1,2021
+5,139,"Special Offer on Dawn Bread Milky","fixed",100,"2021-01-13","2021-01-18",1,2021
+6,19,"Special Offer on Habib Milk 1L","percentage",15,"2021-01-12","2021-01-15",1,2021
+7,20,"Special Offer on Dairy Omung Milk 1L","percentage",15,"2021-01-17","2021-01-25",1,2021
+8,42,"Special Offer on TCL 48"" Smart LED TV","percentage",25,"2021-01-04","2021-01-18",1,2021
+9,82,"Special Offer on Ponam Baisan 1kg","fixed",100,"2021-01-18","2021-01-24",1,2021
+10,155,"Special Offer on Garbage Bags (20 pcs) 15L","percentage",10,"2021-01-19","2021-01-23",1,2021
+11,8,"Special Offer on Dalda Cooking Oil 1L","percentage",15,"2021-01-13","2021-01-16",1,2021
+12,39,"Special Offer on Surf Excel Detergent Powder 1kg","fixed",150,"2021-01-15","2021-01-18",1,2021
+13,88,"Special Offer on National Haleem Masala 43g","fixed",100,"2021-01-23","2021-01-28",1,2021
+14,69,"Special Offer on Chilli Milli Chips 100g","fixed",200,"2021-01-12","2021-01-17",1,2021
+15,62,"Special Offer on Salman's Chocolate Syrup 623g","fixed",150,"2021-01-18","2021-01-23",1,2021
+16,141,"Special Offer on Bake Parlor Bread Large","percentage",5,"2021-01-23","2021-02-03",1,2021

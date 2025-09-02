@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,56,"Special Offer on K&N's Burger Patties 16's 1070g","percentage",25,"2021-12-18","2021-12-23",12,2021
+2,33,"Special Offer on Vince Sun Block Non-Greasy 75ml","fixed",50,"2021-12-18","2021-12-22",12,2021
+3,139,"Special Offer on Dawn Bread Milky","percentage",5,"2021-12-23","2021-12-31",12,2021
+4,5,"Special Offer on Eva Cooking Oil 1L","fixed",100,"2021-12-14","2021-12-22",12,2021
+5,68,"Special Offer on Red Slanty Chips 100g","fixed",50,"2021-12-13","2021-12-25",12,2021
+6,124,"Special Offer on Tang Pineapple 375g","fixed",100,"2021-12-23","2021-12-31",12,2021
+7,57,"Special Offer on K&N's Frankfurter Sausage 16's 720g","fixed",100,"2021-12-03","2021-12-13",12,2021
+8,39,"Special Offer on Surf Excel Detergent Powder 1kg","fixed",50,"2021-12-22","2021-12-28",12,2021
+9,36,"Special Offer on Head & Shoulders Dry Scalp Care 185ml","fixed",100,"2021-12-02","2021-12-10",12,2021
+10,11,"Special Offer on Kisan Ghee 1kg","fixed",100,"2021-12-23","2021-12-26",12,2021
+11,24,"Special Offer on Polac Condensed Milk 1kg","percentage",20,"2021-12-22","2022-01-04",12,2021
+12,74,"Special Offer on Ponam Daal Mash 1kg","percentage",15,"2021-12-18","2021-12-30",12,2021
+13,90,"Special Offer on Mitchell's Tomato Ketchup 500g","fixed",50,"2021-12-07","2021-12-20",12,2021
+14,103,"Special Offer on Cauliflower 500g","percentage",20,"2021-12-20","2022-01-01",12,2021
+15,128,"Special Offer on Johnson's Baby Wipes Pack","fixed",100,"2021-12-04","2021-12-09",12,2021
+16,41,"Special Offer on Brite Antibacterial Detergent Powder 1kg","percentage",20,"2021-12-21","2022-01-02",12,2021
