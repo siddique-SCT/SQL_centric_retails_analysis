@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,149,"Special Offer on Dried Apricots (Khobani) 1kg","percentage",15,"2022-02-09","2022-02-18",2,2022
+2,26,"Special Offer on Golden Pearl Glow Boosting Serum 3ml","percentage",20,"2022-02-13","2022-02-26",2,2022
+3,61,"Special Offer on Euro Twin Chocolate Cake 32g","fixed",100,"2022-02-02","2022-02-15",2,2022
+4,34,"Special Offer on Lifebuoy Shampoo Herbal 175ml","fixed",200,"2022-02-11","2022-02-17",2,2022
+5,93,"Special Offer on Tomato 500g","fixed",150,"2022-02-13","2022-02-26",2,2022
+6,128,"Special Offer on Johnson's Baby Wipes Pack","percentage",5,"2022-02-05","2022-02-09",2,2022
+7,20,"Special Offer on Dairy Omung Milk 1L","percentage",10,"2022-02-17","2022-02-26",2,2022
+8,134,"Special Offer on Mueloliva Olive Oil Extra Virgin 1L","percentage",25,"2022-02-05","2022-02-08",2,2022
+9,23,"Special Offer on Nurpur Milk Pouch 250ml","fixed",200,"2022-02-18","2022-02-23",2,2022
+10,49,"Special Offer on Westpoint Juicer Blender Drymill 8813","fixed",100,"2022-02-05","2022-02-18",2,2022
+11,50,"Special Offer on Westpoint Food Processor Kitchen Chef 2805","fixed",50,"2022-02-18","2022-02-27",2,2022
+12,13,"Special Offer on Tullo Ghee 1kg","percentage",15,"2022-02-20","2022-03-02",2,2022
+13,125,"Special Offer on Tang Lemon & Pepper 750g tub","percentage",10,"2022-02-17","2022-02-21",2,2022
+14,7,"Special Offer on Kisan Sunflower Oil 1L","fixed",100,"2022-02-15","2022-02-21",2,2022
+15,127,"Special Offer on Pampers Baby Diapers Medium Pack","percentage",25,"2022-02-04","2022-02-18",2,2022
+16,98,"Special Offer on Garlic (China) 250g","fixed",150,"2022-02-18","2022-02-27",2,2022

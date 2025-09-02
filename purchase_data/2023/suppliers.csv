@@ -1,0 +1,31 @@
+"supplier_id","company_name","contact_person","email","phone","address","supplier_type","payment_terms","account_number","rating","is_active"
+5000,"Green Valley Producers Pvt Ltd","Barr Ali","info@greenvalleyproducerspvtltd.com","021-8983909","52 Omar Parks, Lahore","Local Producer","Net 15","7833-5815-4596",4,True
+5001,"Local Harvest Corp","Radi Aryan","info@localharvestcorp.com","021-4293560","371 Kaamil Meadows, Karachi","Local Producer","Net 15","8006-4715-7103",3,False
+5002,"Discount Distributors Corp","Aalam Lajlaj","info@discountdistributorscorp.com","021-9960667","412 Awani Bypass, Peshawar","Wholesaler","Net 30","7485-1779-4108",3,True
+5003,"National Foods Corp Traders","Parsa Souma","info@nationalfoodscorptraders.com","021-6816138","569 Taaj Stream, Peshawar","Manufacturer","Net 45","9690-6041-7788",4,True
+5004,"Mega Mart Suppliers Pvt Ltd","Umair Maawiya","info@megamartsupplierspvtltd.com","021-6956461","967 Karam Bypass, Sialkot","Wholesaler","Net 15","3128-2887-2262",3,True
+5005,"National Foods Corp Traders","Changaz Gulshan","info@nationalfoodscorptraders.com","021-9722697","683 Omeir Green, Peshawar","Manufacturer","Net 15","4486-9566-5502",4,False
+5006,"National Foods Corp Traders","Tadeen Kaysan","info@nationalfoodscorptraders.com","021-8207585","324 Ubadah Harbors, Lahore","Manufacturer","Net 15","9141-9306-1684",5,True
+5007,"Discount Distributors Pvt Ltd","Fahmi Ghanee","info@discountdistributorspvtltd.com","021-4911485","441 Umar Neck, Karachi","Wholesaler","50% Advance","7479-5783-4843",3,False
+5008,"Pak Foods Ltd Corp","Dakhil Nadeem","info@pakfoodsltdcorp.com","021-9058009","370 Qadar Lodge, Multan","Manufacturer","Net 45","9691-2554-1587",4,True
+5009,"Mega Mart Suppliers Traders","Ali Jahdari","info@megamartsupplierstraders.com","021-6183944","707 Kareem Parks, Karachi","Wholesaler","Net 45","1453-4156-8055",5,False
+5010,"Local Harvest Traders","Nabeel Qusay","info@localharvesttraders.com","021-2631109","864 Zuwayhir Run, Lahore","Local Producer","Net 30","7185-8991-4022",5,True
+5011,"Pak Agrovet Traders","Aamir Badr Udeen","info@pakagrovettraders.com","021-1932557","41 Baasit Island, Karachi","Local Producer","Net 15","8782-8539-4754",3,True
+5012,"Trade Hub Wholesale Pvt Ltd","Ubaadah Ayyubi","info@tradehubwholesalepvtltd.com","021-1890204","253 Omar Club, Peshawar","Wholesaler","Cash on Delivery","2084-9297-6805",3,True
+5013,"Quality Products Inc Pvt Ltd","Quddoos Jaabir","info@qualityproductsincpvtltd.com","021-6334512","536 Tabassum Meadow, Multan","Manufacturer","Net 45","6908-8622-3836",3,True
+5014,"Global Imports Ltd Enterprises","Tahaw-wur Aatiq","info@globalimportsltdenterprises.com","021-9498365","535 Najair Groves, Lahore","Importer","Cash on Delivery","2761-7486-3224",3,True
+5015,"International Traders Enterprises","Chashida Bashaar","info@internationaltradersenterprises.com","021-2162714","858 Zaheer Stream, Lahore","Importer","Net 45","7427-3567-6757",5,True
+5016,"Pak Agrovet Traders","Majdy Mahmoud","info@pakagrovettraders.com","021-6497304","459 Kabeer Prairie, Islamabad","Local Producer","Net 15","6797-7084-8495",5,True
+5017,"Fresh Farms Ltd Traders","Madiyan Naeem","info@freshfarmsltdtraders.com","021-2710261","409 Azeeb Trafficway, Islamabad","Local Producer","50% Advance","7154-9830-8552",5,True
+5018,"Discount Distributors Corp","Kaamil Naail","info@discountdistributorscorp.com","021-8797257","776 Aadam Flat, Sialkot","Wholesaler","50% Advance","7303-6985-4197",5,True
+5019,"Global Imports Ltd Corp","Raheem Raid","info@globalimportsltdcorp.com","021-9611531","217 Qaasim Way, Rawalpindi","Importer","Net 45","7786-7676-3040",3,True
+5020,"Mega Mart Suppliers Traders","Ubaadah Ubay","info@megamartsupplierstraders.com","021-1510249","612 Kaleem Parkway, Faisalabad","Wholesaler","Net 30","4725-2535-1332",3,True
+5021,"Premium Manufacturers Traders","Badawi Ali","info@premiummanufacturerstraders.com","021-4495768","865 Kaleem Place, Islamabad","Manufacturer","Net 15","8016-4330-2689",5,True
+5022,"Fresh Farms Ltd Corp","Loot Sadan","info@freshfarmsltdcorp.com","021-9132430","295 Tahmaseb Ways, Islamabad","Local Producer","Net 30","3761-9153-6803",4,True
+5023,"Quality Products Inc Corp","Taahaa Saad","info@qualityproductsinccorp.com","021-3367590","984 Qani Skyway, Multan","Manufacturer","Net 30","3741-1867-9451",4,True
+5024,"Mega Mart Suppliers Traders","Ghayoor Ghannam","info@megamartsupplierstraders.com","021-4689816","437 Qasif Rest, Quetta","Wholesaler","50% Advance","7303-7249-4919",5,True
+5025,"International Traders Traders","Qawee Kamal","info@internationaltraderstraders.com","021-9756511","71 Ihtesham Key, Rawalpindi","Importer","Cash on Delivery","6819-4101-5231",5,True
+5026,"Green Valley Producers Enterprises","Qay-yoom Ilan","info@greenvalleyproducersenterprises.com","021-5147761","850 Ghunayn Corners, Sialkot","Local Producer","50% Advance","3574-4915-2141",3,True
+5027,"Discount Distributors Corp","Rabiah Luqmaan","info@discountdistributorscorp.com","021-7545938","299 Mahad Estates, Peshawar","Wholesaler","Net 45","4887-4356-2530",3,True
+5028,"Premium Manufacturers Corp","Aarif Talat","info@premiummanufacturerscorp.com","021-4385651","256 Ghanee Curve, Sialkot","Manufacturer","Cash on Delivery","9419-6426-2959",3,True
+5029,"Discount Distributors Pvt Ltd","Saahir Ossama","info@discountdistributorspvtltd.com","021-8768628","289 Basem Locks, Peshawar","Wholesaler","Net 45","2986-6210-6245",5,True

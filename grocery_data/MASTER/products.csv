@@ -1,0 +1,157 @@
+"product_id","product_name","category","unit_price","cost_price","profit_margin","supplier","weight","is_perishable"
+1,"Mezan Cooking Oil 1L","Oils & Ghee",527,401.98,31.1,"Madiyan Inc Pvt Ltd","2L",False
+2,"Canolive Cooking Oil 1L","Oils & Ghee",670,421.56,58.93,"Iftikhaar Ltd Corp","1kg",False
+3,"Olivola Oil 1L","Oils & Ghee",575,392.43,46.52,"Zahur, Fazli and Baleegh Pvt Ltd","5L",False
+4,"Soya Supreme Cooking Oil 1L","Oils & Ghee",589,348.21,69.15,"Ghanee Inc Corp","500g",False
+5,"Eva Cooking Oil 1L","Oils & Ghee",575,433.56,32.62,"Jalaal Ltd Corp","10kg",False
+6,"Eva Cooking Oil Pillow 1L","Oils & Ghee",550,279.5,96.78,"Ehsaas and Sons Pvt Ltd","100g",False
+7,"Kisan Sunflower Oil 1L","Oils & Ghee",524,305.59,71.47,"Zayyir, Sabiq and Qaasim Traders","250g",False
+8,"Dalda Cooking Oil 1L","Oils & Ghee",545,395.05,37.96,"Awadil, Aamir and Raatib Pvt Ltd","5L",False
+9,"Golden Sun Canola Oil 1L","Oils & Ghee",574,361.8,58.65,"Wahhaaj, Zaheer and Tahawwur Traders","1L",False
+10,"Barkat Cooking Oil 1L","Oils & Ghee",481,268.06,79.44,"Rabbani-Dakhil Corp","500g",False
+11,"Kisan Ghee 1kg","Oils & Ghee",600,469.15,27.89,"Aasif-Fidvi Corp","5L",False
+12,"Eva Vegetable Ghee 1kg","Oils & Ghee",515,312.28,64.92,"Mad-Tabassum Corp","1L",False
+13,"Tullo Ghee 1kg","Oils & Ghee",520,398.07,30.63,"Gohar, Qaseem and Aadam Pvt Ltd","2kg",False
+14,"Dalda Ghee 1kg","Oils & Ghee",549,352.26,55.85,"Ubaydullah, Jahdari and Mahfuj Traders","5kg",False
+15,"Mezan Ghee 1kg","Oils & Ghee",599,313.83,90.87,"Ubaadah, Kasim and Mad Corp","250g",False
+16,"Haleeb Desi Ghee Tin 1kg","Oils & Ghee",1300,778.27,67.04,"Raashid Ltd Pvt Ltd","10kg",False
+17,"Pak Pure Desi Ghee Tin 1kg","Oils & Ghee",1379,1058.22,30.31,"Ubayd-Fazli Pvt Ltd","1L",False
+18,"Haleeb Asli Full Cream Milk 1L","Dairy & Milk Products",205,144.68,41.69,"Awani-Yafir Traders","1kg",True
+19,"Habib Milk 1L","Dairy & Milk Products",219,157.08,39.42,"Raaghib, Sadan and Layth Corp","2L",True
+20,"Dairy Omung Milk 1L","Dairy & Milk Products",189,145.26,30.11,"Aasif, Zayyir and Souma Corp","500g",True
+21,"Dayfresh Full Cream Milk 250ml","Dairy & Milk Products",75,39.57,89.54,"Aasif, Mahfuz and Ghutayf Traders","250g",True
+22,"Olper's Milk Pouch 250ml","Dairy & Milk Products",67,44.9,49.22,"Zaheer, Raheel and Ubadah Traders","2L",True
+23,"Nurpur Milk Pouch 250ml","Dairy & Milk Products",65,36.85,76.39,"Aasim-Raed Traders","500g",True
+24,"Polac Condensed Milk 1kg","Dairy & Milk Products",825,569.11,44.96,"Jalaal, Sabah and Kabeer Pvt Ltd","250g",True
+25,"Comelle Condensed Milk 397g","Dairy & Milk Products",359,285.62,25.69,"Ghasaan-Bashaarat Corp","1L",True
+26,"Golden Pearl Glow Boosting Serum 3ml","Health & Beauty",85,64.62,31.54,"Ibraaheem Inc Pvt Ltd","10kg",False
+27,"Cosmee Soothing Gel Aloe Vera 80g","Health & Beauty",169,88.34,91.31,"Yafir-Talat Corp","2L",False
+28,"Hemani Rose Water Spray 120ml","Health & Beauty",229,122.76,86.54,"Gohar, Ubay and Sadan Corp","500g",False
+29,"Dermacos Hydroxy Clay 200g","Health & Beauty",369,219.45,68.15,"Bilaal-Kaamil Traders","2kg",False
+30,"Vince Extra Fair Cleansing Milk 120ml","Health & Beauty",409,301.12,35.83,"Umaarah, Zaahid and Basaam Pvt Ltd","10kg",False
+31,"Saeed Ghani Rose Water 700ml","Health & Beauty",335,197.02,70.03,"Maroof-Faizan Pvt Ltd","1kg",False
+32,"Ponds Moisturizing Lotion Vitamin E 100ml","Health & Beauty",269,203.27,32.34,"Bambad, Zahur and Saboor Traders","5L",False
+33,"Vince Sun Block Non-Greasy 75ml","Health & Beauty",765,420.45,81.95,"Aasim-Kamran Corp","2kg",False
+34,"Lifebuoy Shampoo Herbal 175ml","Household & Cleaning",315,223.41,41.0,"Badr Udeen, Umar and Jaabir Pvt Ltd","2kg",False
+35,"Sunsilk Thick & Long Shampoo 185ml","Household & Cleaning",389,302.33,28.67,"Ibrahim-Awadil Traders","10kg",False
+36,"Head & Shoulders Dry Scalp Care 185ml","Household & Cleaning",469,237.08,97.82,"Talib Inc Corp","1L",False
+37,"Dove Intense Repair Shampoo 175ml","Household & Cleaning",415,237.05,75.07,"Rabb-Ubay Corp","10kg",False
+38,"Bonus Detergent Powder 770g","Household & Cleaning",235,165.35,42.12,"Aamir-Lutf Traders","250g",False
+39,"Surf Excel Detergent Powder 1kg","Household & Cleaning",575,343.42,67.43,"Sadeed-Majeed Pvt Ltd","5kg",False
+40,"Ariel Machine Detergent Powder 1kg","Household & Cleaning",880,569.09,54.63,"Rabbani-Mahbeer Corp","10kg",False
+41,"Brite Antibacterial Detergent Powder 1kg","Household & Cleaning",575,388.76,47.91,"Ghauth Ltd Traders","2L",False
+42,"TCL 48"" Smart LED TV","Electronics & Appliances",52500,34172.88,53.63,"Aasim PLC Traders","2kg",False
+43,"Samsung Galaxy A02S","Electronics & Appliances",20000,10331.6,93.58,"Kachela Group Pvt Ltd","1L",False
+44,"PEL Refrigerator PRGD-22250 MG","Electronics & Appliances",66900,35303.33,89.5,"Kashif PLC Traders","1L",False
+45,"PEL Washing Machine PAWM-1100i","Electronics & Appliances",51500,35053.04,46.92,"Qusay, Fazli and Rabah Corp","2kg",False
+46,"PEL Water Dispenser PWD-115","Electronics & Appliances",18900,14541.7,29.97,"Kaysan, Batal and Ubayd Traders","1L",False
+47,"Panasonic Sandwich Maker NF-GW1","Electronics & Appliances",9000,5869.34,53.34,"Baashir, Zahaar and Jahdari Traders","5L",False
+48,"Panasonic Steam Iron NI-JW650T","Electronics & Appliances",19000,10280.37,84.82,"Rabar, Yasir and Gohar Pvt Ltd","2kg",False
+49,"Westpoint Juicer Blender Drymill 8813","Electronics & Appliances",13000,9577.83,35.73,"Rohaan-Aabid Pvt Ltd","250g",False
+50,"Westpoint Food Processor Kitchen Chef 2805","Electronics & Appliances",17500,9627.12,81.78,"Ubaidah-Saad Traders","5L",False
+51,"PEL Microwave Oven 32L DW-132S","Electronics & Appliances",29000,18704.25,55.04,"Urrab-Awamil Pvt Ltd","2L",False
+52,"K&N's Chicken Nuggets 270g","Frozen Foods",425,230.33,84.52,"Aamir PLC Traders","1kg",False
+53,"Menu Comp Chicken Nuggets 1kg","Frozen Foods",1120,624.03,79.48,"Jahdami and Sons Corp","5L",False
+54,"Dawn Paratha Plain Pack (5 pcs)","Frozen Foods",235,134.68,74.49,"Raashid-Ubadah Pvt Ltd","1kg",False
+55,"Dawn Paratha Aloo Pack (3 pcs)","Frozen Foods",280,158.68,76.46,"Azban, Ghauth and Baashir Pvt Ltd","5L",False
+56,"K&N's Burger Patties 16's 1070g","Frozen Foods",1165,812.25,43.43,"Umair Ltd Traders","500g",False
+57,"K&N's Frankfurter Sausage 16's 720g","Frozen Foods",995,669.9,48.53,"Ubay-Rafay Pvt Ltd","500g",False
+58,"K&N's Chicken Seekh Kabab 18's 540g","Frozen Foods",929,658.51,41.08,"Yar, Kasam and Ali Corp","250g",False
+59,"K&N's Chicken Fun Nuggets 795g","Frozen Foods",939,663.17,41.59,"Kaamil-Daamin Corp","2kg",False
+60,"Nutro Wafers Chocolate 80g","Snacks & Confectionery",345,186.78,84.71,"Mahbeer Group Pvt Ltd","1kg",False
+61,"Euro Twin Chocolate Cake 32g","Snacks & Confectionery",79,44.32,78.25,"Kachela-Baasit Corp","2kg",False
+62,"Salman's Chocolate Syrup 623g","Snacks & Confectionery",545,317.08,71.88,"Aarif, Yaman and Ejlaal Traders","250g",False
+63,"Choco Bliss Milk Spread 675g","Snacks & Confectionery",1019,575.02,77.21,"Fidvi Group Corp","5kg",False
+64,"Young's Chocolate Spread 600g","Snacks & Confectionery",779,579.68,34.38,"Omran-Talha Pvt Ltd","2kg",False
+65,"Popitos Salted Chips 75g","Snacks & Confectionery",150,113.8,31.81,"Raed-Rafi Pvt Ltd","5kg",False
+66,"Top Pops Orange Chips 150g","Snacks & Confectionery",200,108.35,84.59,"Ghauth PLC Corp","10kg",False
+67,"Nom Nachos 100g","Snacks & Confectionery",180,133.97,34.36,"Umar, Awamil and Tadeen Pvt Ltd","1kg",False
+68,"Red Slanty Chips 100g","Snacks & Confectionery",170,101.56,67.39,"Baasim-Wadi Corp","1kg",False
+69,"Chilli Milli Chips 100g","Snacks & Confectionery",170,94.3,80.28,"Basaam, Jameel and Latif Corp","1kg",False
+70,"Ponam Masoor Whole 1kg","Pulses & Grains",279,198.73,40.39,"Umar PLC Traders","250g",False
+71,"Ponam Daal Moong 1kg","Pulses & Grains",410,274.71,49.25,"Nabih, Yafir and Ghafoor Traders","5kg",False
+72,"Ponam White Chana B-9 1kg","Pulses & Grains",289,157.39,83.62,"Saahir-Saahir Corp","500g",False
+73,"Ponam Black Chana 1kg","Pulses & Grains",369,243.46,51.56,"Saabir-Karaamat Traders","2L",False
+74,"Ponam Daal Mash 1kg","Pulses & Grains",469,263.63,77.9,"Saburah Ltd Corp","100g",False
+75,"Ponam Black Eyed Beans 500g","Pulses & Grains",199,116.16,71.32,"Mahfuz Group Pvt Ltd","2kg",False
+76,"Ponam Daal Mix 500g","Pulses & Grains",199,146.29,36.03,"Qahtan PLC Corp","250g",False
+77,"Ponam Moong Whole 500g","Pulses & Grains",119,71.52,66.39,"Ihtiram, Basaam and Aarif Pvt Ltd","100g",False
+78,"Ponam Daal Mash Chilka Black 500g","Pulses & Grains",229,119.72,91.28,"Yasir Inc Traders","2L",False
+79,"Ponam Atta Chakki 5kg","Flour & Atta",619,464.4,33.29,"Ubaid LLC Pvt Ltd","500g",False
+80,"Ponam Super Fine Atta 5kg","Flour & Atta",549,328.38,67.18,"Baashir-Aasim Corp","250g",False
+81,"Ponam Maida 1kg","Flour & Atta",145,110.39,31.35,"Aabid, Ghazzal and Jahdami Corp","10kg",False
+82,"Ponam Baisan 1kg","Flour & Atta",389,281.71,38.09,"Esfandyar Inc Corp","250g",False
+83,"Ponam Cornflour 1kg","Flour & Atta",189,134.6,40.42,"Lajlaj-Baseer Pvt Ltd","250g",False
+84,"Ponam Suji 500g","Flour & Atta",75,41.47,80.85,"Limazah, Buraid and Aariz Pvt Ltd","5kg",False
+85,"Ponam Rice Flour 500g","Flour & Atta",75,58.34,28.56,"Taaj-Basheerah Pvt Ltd","5L",False
+86,"Ponam Bajra Flour 500g","Flour & Atta",85,44.83,89.61,"Aamir Ltd Pvt Ltd","2kg",False
+87,"National Biryani Masala 78g","Spices & Condiments",270,172.18,56.81,"Ayamin-Saalim Corp","100g",False
+88,"National Haleem Masala 43g","Spices & Condiments",140,77.64,80.32,"Wafeeq LLC Corp","5kg",False
+89,"Mitchell's Mango Squash 500ml","Spices & Condiments",350,236.23,48.16,"Wahhaaj Inc Corp","5L",False
+90,"Mitchell's Tomato Ketchup 500g","Spices & Condiments",270,172.84,56.21,"Ghunayn-Ubaidah Corp","2L",False
+91,"Chashnik Granulated Brown Sugar 500g","Spices & Condiments",150,95.12,57.7,"Mahbeer Ltd Traders","500g",False
+92,"Sugarie Powdered Brown Sugar 1kg","Spices & Condiments",379,210.9,79.71,"Kaamil, Aasim and Tawkeel Traders","5kg",False
+93,"Tomato 500g","Fresh Produce",29,19.8,46.46,"Ghasaan, Rabiah and Jabir Pvt Ltd","250g",True
+94,"Green Chillies (Sindh) 250g","Fresh Produce",19,14.06,35.14,"Raed, Maroof and Karaamat Traders","2kg",True
+95,"Potato White 1kg","Fresh Produce",49,36.12,35.66,"Yafir Ltd Corp","5kg",True
+96,"Onion 500g","Fresh Produce",89,50.71,75.51,"Ghanee-Raakin Corp","1kg",True
+97,"Garlic (Desi) 250g","Fresh Produce",99,55.19,79.38,"Luay LLC Traders","5kg",True
+98,"Garlic (China) 250g","Fresh Produce",115,88.07,30.58,"Sabiq and Sons Pvt Ltd","250g",True
+99,"Cabbage 500g","Fresh Produce",29,18.34,58.12,"Lajlaj LLC Corp","2kg",True
+100,"Cucumber (Desi) 500g","Fresh Produce",49,34.89,40.44,"Jalaal, Rabar and Kaleem Traders","500g",True
+101,"Ginger 250g","Fresh Produce",139,111.18,25.02,"Aamil-Kashif Traders","5kg",True
+102,"Carrot (Red) 250g","Fresh Produce",15,9.69,54.8,"Umar-Baasim Pvt Ltd","5L",True
+103,"Cauliflower 500g","Fresh Produce",39,25.06,55.63,"Najeeb, Ijli and Jabir Traders","2L",True
+104,"Turnip 500g","Fresh Produce",35,24.08,45.35,"Gohar-Ibrahim Traders","1L",True
+105,"Capsicum (Shimla Mirch) 250g","Fresh Produce",29,17.2,68.6,"Ijli Group Traders","1L",True
+106,"Mango (Sindhri) 1kg","Fresh Produce",400,276.47,44.68,"Karam PLC Corp","2L",True
+107,"Mango (Chaunsa) 1kg","Fresh Produce",450,268.14,67.82,"Basaam-Dakhil Pvt Ltd","5L",True
+108,"Apple (Kala Kulu) 1kg","Fresh Produce",300,214.34,39.96,"Yasir and Sons Pvt Ltd","5L",True
+109,"Orange (Kinnow) 1kg","Fresh Produce",250,144.59,72.9,"Naeem-Kamal Traders","500g",True
+110,"Pepsi Can","Beverages",75,38.9,92.8,"Ejlaal Ltd Traders","2L",False
+111,"Pepsi 1.5L","Beverages",175,137.39,27.37,"Quadir Ltd Traders","5kg",False
+112,"Coca Cola Can","Beverages",85,63.32,34.24,"Ghannam-Ghutayf Corp","10kg",False
+113,"Coca Cola 1.5L","Beverages",179,129.66,38.05,"Jaabir, Urrab and Zackariya Pvt Ltd","500g",False
+114,"Mountain Dew Can","Beverages",75,42.3,77.3,"Zaahid Ltd Corp","5kg",False
+115,"Mountain Dew 1.5L","Beverages",175,129.29,35.35,"Qais, Esfandyar and Ihab Corp","100g",False
+116,"Popular Maza Juice 1L","Beverages",179,130.0,37.69,"Zafir-Rafeek Pvt Ltd","10kg",False
+117,"Any Time Juice 1L","Beverages",225,129.88,73.24,"Qadeer Group Corp","250g",False
+118,"Rani Juice Can 240ml","Beverages",199,137.29,44.95,"Zayyir Ltd Pvt Ltd","250g",False
+119,"Quice Juice 250ml","Beverages",35,22.97,52.37,"Majeed Group Traders","1L",False
+120,"Fruitien Juice 1L","Beverages",275,218.91,25.62,"Ghannam-Omeir Corp","1kg",False
+121,"Maza Mango Juice 1L","Beverages",179,140.49,27.41,"Awmar Group Traders","500g",False
+122,"Slice Juice 1L","Beverages",145,114.04,27.15,"Najeeb-Maalik Pvt Ltd","1L",False
+123,"Tang Orange 125g sachet","Beverages",80,61.91,29.22,"Najeeb, Ubaid and Raaghib Traders","10kg",False
+124,"Tang Pineapple 375g","Beverages",239,120.01,99.15,"Jaabir PLC Traders","100g",False
+125,"Tang Lemon & Pepper 750g tub","Beverages",585,296.14,97.54,"Ubadah-Naeem Corp","1L",False
+126,"Johnson's Baby Shampoo 200ml","Baby Care",350,253.53,38.05,"Dabir LLC Pvt Ltd","2kg",False
+127,"Pampers Baby Diapers Medium Pack","Baby Care",1200,917.63,30.77,"Ibrahim, Iftikhaar and Idris Corp","2L",False
+128,"Johnson's Baby Wipes Pack","Baby Care",400,266.71,49.98,"Kabeer PLC Pvt Ltd","1L",False
+129,"MamyPoko Pants Large","Baby Care",1400,948.9,47.54,"Baleegh, Zaheer and Ubadah Corp","5kg",False
+130,"Whiskas Cat Food Pouch 85g","Pet Care",70,45.14,55.07,"Ghayoor, Umar and Omair Pvt Ltd","10kg",False
+131,"Pedigree Dog Food Chunkies 100g","Pet Care",80,58.0,37.93,"Mad, Saafir and Yahyaa Corp","10kg",False
+132,"Aquafresh Pet Vitamins 100g","Pet Care",450,311.18,44.61,"Gohar, Zaahir and Maroof Pvt Ltd","2kg",False
+133,"Borges Olive Oil Extra Virgin 1L","Imported & Specialty",5439,4036.5,34.75,"Raashid, Aaaqil and Umar Corp","2L",False
+134,"Mueloliva Olive Oil Extra Virgin 1L","Imported & Specialty",4885,3723.15,31.21,"Zahur-Baaqir Pvt Ltd","250g",False
+135,"Bake Parlor Shawarma Bread","Bakery",89,56.24,58.25,"Luay, Zaahid and Aaaqil Pvt Ltd","5L",True
+136,"Dawn Hot Dog Bun 60g","Bakery",29,19.25,50.65,"Umaarah-Kasam Pvt Ltd","250g",True
+137,"Frizzle Petta Bread","Bakery",90,58.14,54.8,"Ubay-Sabil Pvt Ltd","5L",True
+138,"Bake Parlor Fruit Bun","Bakery",45,23.22,93.8,"Naeem Ltd Corp","5kg",True
+139,"Dawn Bread Milky","Bakery",109,62.84,73.46,"Aariz Inc Traders","100g",True
+140,"Dawn Bread Brown","Bakery",145,84.08,72.45,"Barraq, Aamirah and Tahmaseb Corp","2L",True
+141,"Bake Parlor Bread Large","Bakery",199,103.58,92.12,"Eshan, Raashid and Fazli Pvt Ltd","10kg",True
+142,"Almonds (Badam) 1kg","Dry Fruits",2200,1532.22,43.58,"Ihsaan and Sons Traders","1L",False
+143,"Walnuts (Akhrot) 1kg","Dry Fruits",2000,1044.34,91.51,"Sadan, Bashaarat and Batool Corp","5L",False
+144,"Cashews (Kaju) 1kg","Dry Fruits",2600,1314.31,97.82,"Ubaid-Zahri Corp","5L",False
+145,"Pistachios (Pista) 1kg","Dry Fruits",3300,1909.14,72.85,"Jamaal LLC Corp","2L",False
+146,"Raisins (Kishmish) 1kg","Dry Fruits",1100,816.76,34.68,"Layth LLC Traders","5kg",False
+147,"Dates (Khajoor) 1kg","Dry Fruits",900,466.87,92.77,"Saahir-Jahdari Pvt Ltd","10kg",False
+148,"Dried Figs (Anjeer) 1kg","Dry Fruits",2600,2042.82,27.28,"Rabbani Inc Traders","2kg",False
+149,"Dried Apricots (Khobani) 1kg","Dry Fruits",1100,714.6,53.93,"Umaarah, Umar and Bashaar Pvt Ltd","10kg",False
+150,"Pine Nuts (Chilgoza) 200g","Dry Fruits",4500,3346.1,34.48,"Daniel, Saburah and Ihsaan Traders","500g",False
+151,"Lifebuoy Dishwash Liquid 500ml","Household Essentials",250,136.53,83.11,"Zackariya and Sons Pvt Ltd","500g",False
+152,"Harpic Toilet Cleaner 500ml","Household Essentials",180,131.42,36.97,"Ghauth, Tahawwur and Dakhil Pvt Ltd","2kg",False
+153,"Ujala Fabric Whitener 500ml","Household Essentials",190,104.78,81.33,"Nail, Huzaifa and Baasit Pvt Ltd","1kg",False
+154,"Air Freshener (Generic) 300ml","Household Essentials",290,186.34,55.63,"Dabir Group Corp","1L",False
+155,"Garbage Bags (20 pcs) 15L","Household Essentials",200,134.1,49.14,"Baleegh, Uhban and Daniel Traders","5L",False
+156,"Aluminum Foil 5m","Household Essentials",150,116.43,28.83,"Awamil LLC Traders","500g",False

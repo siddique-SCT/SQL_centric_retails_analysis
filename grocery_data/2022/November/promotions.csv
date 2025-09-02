@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,115,"Special Offer on Mountain Dew 1.5L","percentage",15,"2022-11-10","2022-11-15",11,2022
+2,111,"Special Offer on Pepsi 1.5L","percentage",5,"2022-11-10","2022-11-17",11,2022
+3,100,"Special Offer on Cucumber (Desi) 500g","percentage",25,"2022-11-21","2022-12-02",11,2022
+4,96,"Special Offer on Onion 500g","fixed",50,"2022-11-13","2022-11-24",11,2022
+5,60,"Special Offer on Nutro Wafers Chocolate 80g","percentage",5,"2022-11-05","2022-11-13",11,2022
+6,5,"Special Offer on Eva Cooking Oil 1L","percentage",20,"2022-11-06","2022-11-10",11,2022
+7,143,"Special Offer on Walnuts (Akhrot) 1kg","percentage",10,"2022-11-16","2022-11-30",11,2022
+8,149,"Special Offer on Dried Apricots (Khobani) 1kg","fixed",200,"2022-11-14","2022-11-19",11,2022
+9,36,"Special Offer on Head & Shoulders Dry Scalp Care 185ml","fixed",150,"2022-11-05","2022-11-09",11,2022
+10,86,"Special Offer on Ponam Bajra Flour 500g","fixed",150,"2022-11-17","2022-11-25",11,2022
+11,40,"Special Offer on Ariel Machine Detergent Powder 1kg","percentage",10,"2022-11-14","2022-11-25",11,2022
+12,153,"Special Offer on Ujala Fabric Whitener 500ml","percentage",5,"2022-11-14","2022-11-26",11,2022
+13,74,"Special Offer on Ponam Daal Mash 1kg","fixed",150,"2022-11-22","2022-12-04",11,2022
+14,54,"Special Offer on Dawn Paratha Plain Pack (5 pcs)","percentage",5,"2022-11-15","2022-11-22",11,2022
+15,77,"Special Offer on Ponam Moong Whole 500g","fixed",50,"2022-11-09","2022-11-20",11,2022
+16,45,"Special Offer on PEL Washing Machine PAWM-1100i","percentage",10,"2022-11-02","2022-11-09",11,2022

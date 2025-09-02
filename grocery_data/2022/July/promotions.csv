@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,41,"Special Offer on Brite Antibacterial Detergent Powder 1kg","fixed",150,"2022-07-16","2022-07-26",7,2022
+2,24,"Special Offer on Polac Condensed Milk 1kg","percentage",20,"2022-07-05","2022-07-15",7,2022
+3,130,"Special Offer on Whiskas Cat Food Pouch 85g","percentage",20,"2022-07-08","2022-07-20",7,2022
+4,104,"Special Offer on Turnip 500g","fixed",100,"2022-07-15","2022-07-28",7,2022
+5,30,"Special Offer on Vince Extra Fair Cleansing Milk 120ml","fixed",150,"2022-07-01","2022-07-10",7,2022
+6,71,"Special Offer on Ponam Daal Moong 1kg","fixed",100,"2022-07-01","2022-07-15",7,2022
+7,136,"Special Offer on Dawn Hot Dog Bun 60g","fixed",200,"2022-07-16","2022-07-28",7,2022
+8,8,"Special Offer on Dalda Cooking Oil 1L","fixed",50,"2022-07-23","2022-07-26",7,2022
+9,28,"Special Offer on Hemani Rose Water Spray 120ml","percentage",5,"2022-07-20","2022-08-01",7,2022
+10,118,"Special Offer on Rani Juice Can 240ml","percentage",25,"2022-07-23","2022-07-26",7,2022
+11,106,"Special Offer on Mango (Sindhri) 1kg","fixed",200,"2022-07-06","2022-07-16",7,2022
+12,92,"Special Offer on Sugarie Powdered Brown Sugar 1kg","fixed",150,"2022-07-06","2022-07-11",7,2022
+13,79,"Special Offer on Ponam Atta Chakki 5kg","fixed",100,"2022-07-11","2022-07-18",7,2022
+14,141,"Special Offer on Bake Parlor Bread Large","fixed",200,"2022-07-15","2022-07-24",7,2022
+15,99,"Special Offer on Cabbage 500g","fixed",100,"2022-07-03","2022-07-09",7,2022
+16,50,"Special Offer on Westpoint Food Processor Kitchen Chef 2805","fixed",50,"2022-07-15","2022-07-19",7,2022

@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,147,"Special Offer on Dates (Khajoor) 1kg","fixed",100,"2022-12-05","2022-12-10",12,2022
+2,34,"Special Offer on Lifebuoy Shampoo Herbal 175ml","fixed",150,"2022-12-06","2022-12-13",12,2022
+3,79,"Special Offer on Ponam Atta Chakki 5kg","percentage",25,"2022-12-12","2022-12-19",12,2022
+4,109,"Special Offer on Orange (Kinnow) 1kg","percentage",25,"2022-12-06","2022-12-17",12,2022
+5,153,"Special Offer on Ujala Fabric Whitener 500ml","percentage",25,"2022-12-18","2022-12-29",12,2022
+6,143,"Special Offer on Walnuts (Akhrot) 1kg","percentage",15,"2022-12-14","2022-12-24",12,2022
+7,95,"Special Offer on Potato White 1kg","percentage",10,"2022-12-17","2022-12-31",12,2022
+8,82,"Special Offer on Ponam Baisan 1kg","percentage",10,"2022-12-21","2022-12-26",12,2022
+9,63,"Special Offer on Choco Bliss Milk Spread 675g","percentage",10,"2022-12-05","2022-12-14",12,2022
+10,100,"Special Offer on Cucumber (Desi) 500g","fixed",100,"2022-12-05","2022-12-08",12,2022
+11,86,"Special Offer on Ponam Bajra Flour 500g","percentage",25,"2022-12-05","2022-12-17",12,2022
+12,49,"Special Offer on Westpoint Juicer Blender Drymill 8813","fixed",200,"2022-12-12","2022-12-17",12,2022
+13,104,"Special Offer on Turnip 500g","fixed",100,"2022-12-13","2022-12-25",12,2022
+14,16,"Special Offer on Haleeb Desi Ghee Tin 1kg","percentage",20,"2022-12-09","2022-12-17",12,2022
+15,146,"Special Offer on Raisins (Kishmish) 1kg","fixed",150,"2022-12-11","2022-12-20",12,2022
+16,27,"Special Offer on Cosmee Soothing Gel Aloe Vera 80g","fixed",50,"2022-12-05","2022-12-16",12,2022

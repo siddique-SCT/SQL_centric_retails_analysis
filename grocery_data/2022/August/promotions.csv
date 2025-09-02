@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,141,"Special Offer on Bake Parlor Bread Large","percentage",15,"2022-08-03","2022-08-12",8,2022
+2,94,"Special Offer on Green Chillies (Sindh) 250g","fixed",150,"2022-08-11","2022-08-16",8,2022
+3,41,"Special Offer on Brite Antibacterial Detergent Powder 1kg","fixed",100,"2022-08-17","2022-08-27",8,2022
+4,49,"Special Offer on Westpoint Juicer Blender Drymill 8813","fixed",50,"2022-08-14","2022-08-22",8,2022
+5,100,"Special Offer on Cucumber (Desi) 500g","percentage",10,"2022-08-20","2022-08-29",8,2022
+6,154,"Special Offer on Air Freshener (Generic) 300ml","percentage",10,"2022-08-08","2022-08-19",8,2022
+7,56,"Special Offer on K&N's Burger Patties 16's 1070g","percentage",10,"2022-08-06","2022-08-11",8,2022
+8,133,"Special Offer on Borges Olive Oil Extra Virgin 1L","fixed",150,"2022-08-03","2022-08-09",8,2022
+9,55,"Special Offer on Dawn Paratha Aloo Pack (3 pcs)","percentage",15,"2022-08-02","2022-08-13",8,2022
+10,31,"Special Offer on Saeed Ghani Rose Water 700ml","fixed",150,"2022-08-18","2022-08-30",8,2022
+11,12,"Special Offer on Eva Vegetable Ghee 1kg","percentage",10,"2022-08-18","2022-08-23",8,2022
+12,69,"Special Offer on Chilli Milli Chips 100g","percentage",25,"2022-08-15","2022-08-25",8,2022
+13,6,"Special Offer on Eva Cooking Oil Pillow 1L","percentage",5,"2022-08-14","2022-08-24",8,2022
+14,57,"Special Offer on K&N's Frankfurter Sausage 16's 720g","fixed",50,"2022-08-16","2022-08-25",8,2022
+15,151,"Special Offer on Lifebuoy Dishwash Liquid 500ml","percentage",15,"2022-08-20","2022-08-25",8,2022
+16,149,"Special Offer on Dried Apricots (Khobani) 1kg","fixed",50,"2022-08-22","2022-08-30",8,2022

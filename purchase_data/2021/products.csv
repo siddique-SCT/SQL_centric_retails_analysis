@@ -1,0 +1,13 @@
+"product_id","product_name","category","cost_price","min_order_quantity","lead_time_days","shelf_life_days","storage_requirements","supplier_id"
+1,"Mezan Cooking Oil 1L","Oils & Ghee",400,31,20,210,"Room Temp",5015
+2,"Canolive Cooking Oil 1L","Oils & Ghee",520,66,20,115,"Room Temp",5009
+3,"Olivola Oil 1L","Oils & Ghee",450,51,15,239,"Room Temp",5020
+4,"Soya Supreme Cooking Oil 1L","Oils & Ghee",470,39,19,272,"Frozen",5017
+5,"Haleeb Asli Full Cream Milk 1L","Dairy & Milk Products",150,80,16,201,"Frozen",5006
+6,"Habib Milk 1L","Dairy & Milk Products",170,35,20,69,"Refrigerated",5020
+7,"Dairy Omung Milk 1L","Dairy & Milk Products",140,14,11,204,"Frozen",5001
+8,"Dayfresh Full Cream Milk 250ml","Dairy & Milk Products",55,81,21,313,"Refrigerated",5024
+9,"Nutro Wafers Chocolate 80g","Snacks & Confectionery",250,46,9,188,"Frozen",5003
+10,"Euro Twin Chocolate Cake 32g","Snacks & Confectionery",55,82,9,363,"Room Temp",5000
+11,"Salman's Chocolate Syrup 623g","Snacks & Confectionery",400,30,8,48,"Room Temp",5015
+12,"Choco Bliss Milk Spread 675g","Snacks & Confectionery",750,97,19,344,"Room Temp",5021

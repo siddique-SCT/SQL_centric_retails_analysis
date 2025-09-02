@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,49,"Special Offer on Westpoint Juicer Blender Drymill 8813","fixed",50,"2022-01-15","2022-01-20",1,2022
+2,25,"Special Offer on Comelle Condensed Milk 397g","fixed",100,"2022-01-05","2022-01-08",1,2022
+3,2,"Special Offer on Canolive Cooking Oil 1L","fixed",150,"2022-01-09","2022-01-15",1,2022
+4,139,"Special Offer on Dawn Bread Milky","fixed",100,"2022-01-08","2022-01-16",1,2022
+5,21,"Special Offer on Dayfresh Full Cream Milk 250ml","percentage",15,"2022-01-17","2022-01-21",1,2022
+6,112,"Special Offer on Coca Cola Can","percentage",20,"2022-01-20","2022-02-01",1,2022
+7,93,"Special Offer on Tomato 500g","percentage",25,"2022-01-04","2022-01-08",1,2022
+8,40,"Special Offer on Ariel Machine Detergent Powder 1kg","percentage",25,"2022-01-05","2022-01-19",1,2022
+9,134,"Special Offer on Mueloliva Olive Oil Extra Virgin 1L","fixed",200,"2022-01-22","2022-01-28",1,2022
+10,85,"Special Offer on Ponam Rice Flour 500g","fixed",200,"2022-01-03","2022-01-17",1,2022
+11,22,"Special Offer on Olper's Milk Pouch 250ml","fixed",50,"2022-01-10","2022-01-17",1,2022
+12,31,"Special Offer on Saeed Ghani Rose Water 700ml","fixed",200,"2022-01-07","2022-01-14",1,2022
+13,19,"Special Offer on Habib Milk 1L","fixed",150,"2022-01-01","2022-01-10",1,2022
+14,99,"Special Offer on Cabbage 500g","percentage",10,"2022-01-12","2022-01-25",1,2022
+15,103,"Special Offer on Cauliflower 500g","percentage",25,"2022-01-01","2022-01-04",1,2022
+16,100,"Special Offer on Cucumber (Desi) 500g","percentage",15,"2022-01-08","2022-01-17",1,2022

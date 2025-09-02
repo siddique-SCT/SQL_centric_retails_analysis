@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,131,"Special Offer on Pedigree Dog Food Chunkies 100g","percentage",10,"2022-04-14","2022-04-18",4,2022
+2,12,"Special Offer on Eva Vegetable Ghee 1kg","percentage",15,"2022-04-01","2022-04-11",4,2022
+3,143,"Special Offer on Walnuts (Akhrot) 1kg","percentage",20,"2022-04-20","2022-04-29",4,2022
+4,26,"Special Offer on Golden Pearl Glow Boosting Serum 3ml","percentage",20,"2022-04-06","2022-04-16",4,2022
+5,149,"Special Offer on Dried Apricots (Khobani) 1kg","fixed",50,"2022-04-10","2022-04-21",4,2022
+6,92,"Special Offer on Sugarie Powdered Brown Sugar 1kg","fixed",150,"2022-04-22","2022-04-26",4,2022
+7,134,"Special Offer on Mueloliva Olive Oil Extra Virgin 1L","percentage",15,"2022-04-12","2022-04-24",4,2022
+8,30,"Special Offer on Vince Extra Fair Cleansing Milk 120ml","fixed",100,"2022-04-15","2022-04-26",4,2022
+9,78,"Special Offer on Ponam Daal Mash Chilka Black 500g","percentage",10,"2022-04-04","2022-04-11",4,2022
+10,50,"Special Offer on Westpoint Food Processor Kitchen Chef 2805","percentage",20,"2022-04-08","2022-04-19",4,2022
+11,66,"Special Offer on Top Pops Orange Chips 150g","fixed",200,"2022-04-03","2022-04-07",4,2022
+12,156,"Special Offer on Aluminum Foil 5m","fixed",150,"2022-04-05","2022-04-19",4,2022
+13,62,"Special Offer on Salman's Chocolate Syrup 623g","percentage",15,"2022-04-01","2022-04-08",4,2022
+14,37,"Special Offer on Dove Intense Repair Shampoo 175ml","fixed",200,"2022-04-12","2022-04-21",4,2022
+15,129,"Special Offer on MamyPoko Pants Large","fixed",50,"2022-04-02","2022-04-09",4,2022
+16,88,"Special Offer on National Haleem Masala 43g","percentage",25,"2022-04-20","2022-04-28",4,2022

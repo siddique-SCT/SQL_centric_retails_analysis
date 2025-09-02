@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,86,"Special Offer on Ponam Bajra Flour 500g","fixed",200,"2022-06-12","2022-06-22",6,2022
+2,71,"Special Offer on Ponam Daal Moong 1kg","fixed",100,"2022-06-02","2022-06-15",6,2022
+3,41,"Special Offer on Brite Antibacterial Detergent Powder 1kg","fixed",150,"2022-06-13","2022-06-24",6,2022
+4,131,"Special Offer on Pedigree Dog Food Chunkies 100g","fixed",50,"2022-06-03","2022-06-16",6,2022
+5,81,"Special Offer on Ponam Maida 1kg","fixed",150,"2022-06-16","2022-06-27",6,2022
+6,89,"Special Offer on Mitchell's Mango Squash 500ml","percentage",10,"2022-06-08","2022-06-16",6,2022
+7,46,"Special Offer on PEL Water Dispenser PWD-115","fixed",50,"2022-06-08","2022-06-19",6,2022
+8,36,"Special Offer on Head & Shoulders Dry Scalp Care 185ml","percentage",10,"2022-06-12","2022-06-19",6,2022
+9,8,"Special Offer on Dalda Cooking Oil 1L","fixed",150,"2022-06-13","2022-06-17",6,2022
+10,74,"Special Offer on Ponam Daal Mash 1kg","fixed",100,"2022-06-15","2022-06-29",6,2022
+11,141,"Special Offer on Bake Parlor Bread Large","percentage",10,"2022-06-07","2022-06-13",6,2022
+12,123,"Special Offer on Tang Orange 125g sachet","percentage",5,"2022-06-12","2022-06-19",6,2022
+13,119,"Special Offer on Quice Juice 250ml","percentage",5,"2022-06-21","2022-06-28",6,2022
+14,67,"Special Offer on Nom Nachos 100g","fixed",100,"2022-06-16","2022-06-22",6,2022
+15,98,"Special Offer on Garlic (China) 250g","fixed",100,"2022-06-04","2022-06-13",6,2022
+16,146,"Special Offer on Raisins (Kishmish) 1kg","percentage",20,"2022-06-07","2022-06-12",6,2022

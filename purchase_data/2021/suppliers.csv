@@ -1,0 +1,31 @@
+"supplier_id","company_name","contact_person","email","phone","address","supplier_type","payment_terms","account_number","rating","is_active"
+5000,"Trade Hub Wholesale Pvt Ltd","Zafar Ihtiram","info@tradehubwholesalepvtltd.com","021-5503259","461 Kaamil Courts, Rawalpindi","Wholesaler","Net 45","3420-3982-8713",5,True
+5001,"Green Valley Producers Corp","Aadil Jabir","info@greenvalleyproducerscorp.com","021-8064431","522 Iftikhaar Via, Peshawar","Local Producer","Net 30","5707-2042-2885",4,True
+5002,"Local Harvest Corp","Majd Rafi","info@localharvestcorp.com","021-2730980","691 Zafeer Summit, Gujranwala","Local Producer","Net 15","9264-8314-2852",4,True
+5003,"Green Valley Producers Corp","Kaamil Sabur","info@greenvalleyproducerscorp.com","021-2346813","532 Qadeer Gateway, Sialkot","Local Producer","Net 15","2149-3604-3749",3,True
+5004,"Fresh Farms Ltd Traders","Aazim Mahbeer","info@freshfarmsltdtraders.com","021-1127792","98 Khaalid Track, Gujranwala","Local Producer","Net 45","4106-2383-1735",4,True
+5005,"Overseas Suppliers Pvt Ltd","Saajid Naeem","info@overseassupplierspvtltd.com","021-9341713","539 Aadil Groves, Multan","Importer","Net 15","9466-7725-9829",5,True
+5006,"Pak Agrovet Corp","Zaahid Jalaal","info@pakagrovetcorp.com","021-9023445","162 Man Fords, Sialkot","Local Producer","Net 15","7892-7040-5814",4,True
+5007,"Local Harvest Enterprises","Kasim Raakin","info@localharvestenterprises.com","021-6990800","105 Madyan Manors, Islamabad","Local Producer","Net 45","3194-8155-6414",4,True
+5008,"Bulk Distributors Traders","Qawee Jalaal","info@bulkdistributorstraders.com","021-7650725","92 Nabeel Ports, Lahore","Wholesaler","Cash on Delivery","7831-4574-6311",5,True
+5009,"Local Harvest Enterprises","Sadeed Qutaybah","info@localharvestenterprises.com","021-9132353","337 Nafis Passage, Gujranwala","Local Producer","50% Advance","6250-7726-2671",4,True
+5010,"Fresh Farms Ltd Pvt Ltd","Qadim Maalik","info@freshfarmsltdpvtltd.com","021-4329472","210 Barr Gateway, Lahore","Local Producer","50% Advance","6290-6607-2684",3,True
+5011,"Local Harvest Enterprises","Ghunayn Zahur","info@localharvestenterprises.com","021-9687860","491 Talha Walks, Faisalabad","Local Producer","Net 30","8371-4417-6309",4,True
+5012,"Pak Agrovet Corp","Qasif Idris","info@pakagrovetcorp.com","021-4054429","459 Badawi Crossroad, Multan","Local Producer","Net 30","8363-4497-2280",5,True
+5013,"Fresh Farms Ltd Corp","Kajji Yahyaa","info@freshfarmsltdcorp.com","021-2545184","89 Tawkeel Meadows, Lahore","Local Producer","Net 45","9817-8593-1628",3,True
+5014,"Import Export Corp Pvt Ltd","Ayaan Daniel","info@importexportcorppvtltd.com","021-5926734","865 Ikhlaas Walks, Islamabad","Importer","Net 15","6657-9860-2819",5,True
+5015,"Global Imports Ltd Enterprises","Sabeeh Ghutayf","info@globalimportsltdenterprises.com","021-1730931","535 Ghawth Curve, Sialkot","Importer","Net 45","2005-4279-5383",4,True
+5016,"Green Valley Producers Pvt Ltd","Taanish Naail","info@greenvalleyproducerspvtltd.com","021-1248934","477 Yasir Harbors, Karachi","Local Producer","Net 30","1496-6757-7209",3,True
+5017,"Import Export Corp Traders","Aatif Basheerah","info@importexportcorptraders.com","021-3666049","212 Luqman Fields, Faisalabad","Importer","Net 45","4778-1320-1350",5,True
+5018,"Trade Hub Wholesale Enterprises","Aasim Tajammul","info@tradehubwholesaleenterprises.com","021-1256364","837 Sair Via, Rawalpindi","Wholesaler","Net 30","3834-6130-4657",4,True
+5019,"Green Valley Producers Traders","Majdi Ihsaan","info@greenvalleyproducerstraders.com","021-4153834","832 Sadaqat Parkways, Quetta","Local Producer","Cash on Delivery","1641-8227-3754",4,True
+5020,"Overseas Suppliers Traders","Raamiz Saajid","info@overseassupplierstraders.com","021-5964168","654 Yar Keys, Islamabad","Importer","Net 30","1516-5450-7308",4,True
+5021,"Mega Mart Suppliers Traders","Ibn Lutf","info@megamartsupplierstraders.com","021-5566776","148 Azeeb Unions, Multan","Wholesaler","Net 15","7375-6510-7768",5,True
+5022,"International Traders Enterprises","Rabb Zackariya","info@internationaltradersenterprises.com","021-1110245","582 Ubaadah Burg, Sialkot","Importer","Net 30","9198-2087-9072",5,False
+5023,"Discount Distributors Traders","Majdy Layth","info@discountdistributorstraders.com","021-7776461","64 Ghayoor Turnpike, Quetta","Wholesaler","50% Advance","4174-1075-1993",3,True
+5024,"Trade Hub Wholesale Corp","Mizhir Aatiq","info@tradehubwholesalecorp.com","021-4364979","291 Gulfam Course, Multan","Wholesaler","Cash on Delivery","3849-9867-8347",3,True
+5025,"Local Harvest Enterprises","Raaghib Badr Udeen","info@localharvestenterprises.com","021-3221200","724 Kaleema Glen, Sialkot","Local Producer","Net 15","4275-1112-2636",5,True
+5026,"Bulk Distributors Pvt Ltd","Saadiq Qaasim","info@bulkdistributorspvtltd.com","021-4286264","198 Ubaid Rapid, Karachi","Wholesaler","50% Advance","2400-8237-7166",3,True
+5027,"International Traders Corp","Kamran Tahir","info@internationaltraderscorp.com","021-1962099","471 Faizan Canyon, Faisalabad","Importer","Net 30","7719-6428-8253",5,True
+5028,"Premium Manufacturers Enterprises","Nadhir Ubaidah","info@premiummanufacturersenterprises.com","021-2127785","669 Yasaar Key, Islamabad","Manufacturer","Cash on Delivery","4755-4923-3042",4,True
+5029,"Global Imports Ltd Pvt Ltd","Khaalid Wahhaaj","info@globalimportsltdpvtltd.com","021-3242331","241 Ayyubi Junctions, Faisalabad","Importer","Cash on Delivery","1300-5694-4315",5,True

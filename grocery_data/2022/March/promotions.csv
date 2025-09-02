@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,100,"Special Offer on Cucumber (Desi) 500g","fixed",200,"2022-03-03","2022-03-13",3,2022
+2,107,"Special Offer on Mango (Chaunsa) 1kg","fixed",150,"2022-03-02","2022-03-13",3,2022
+3,23,"Special Offer on Nurpur Milk Pouch 250ml","fixed",150,"2022-03-14","2022-03-18",3,2022
+4,13,"Special Offer on Tullo Ghee 1kg","percentage",20,"2022-03-03","2022-03-11",3,2022
+5,48,"Special Offer on Panasonic Steam Iron NI-JW650T","fixed",50,"2022-03-06","2022-03-16",3,2022
+6,71,"Special Offer on Ponam Daal Moong 1kg","fixed",100,"2022-03-13","2022-03-17",3,2022
+7,119,"Special Offer on Quice Juice 250ml","fixed",50,"2022-03-23","2022-04-02",3,2022
+8,136,"Special Offer on Dawn Hot Dog Bun 60g","percentage",10,"2022-03-18","2022-03-26",3,2022
+9,128,"Special Offer on Johnson's Baby Wipes Pack","fixed",50,"2022-03-18","2022-03-25",3,2022
+10,99,"Special Offer on Cabbage 500g","fixed",150,"2022-03-18","2022-03-29",3,2022
+11,91,"Special Offer on Chashnik Granulated Brown Sugar 500g","fixed",150,"2022-03-22","2022-04-03",3,2022
+12,94,"Special Offer on Green Chillies (Sindh) 250g","fixed",150,"2022-03-20","2022-04-03",3,2022
+13,139,"Special Offer on Dawn Bread Milky","percentage",15,"2022-03-23","2022-03-27",3,2022
+14,129,"Special Offer on MamyPoko Pants Large","percentage",15,"2022-03-08","2022-03-22",3,2022
+15,123,"Special Offer on Tang Orange 125g sachet","fixed",50,"2022-03-02","2022-03-07",3,2022
+16,82,"Special Offer on Ponam Baisan 1kg","percentage",15,"2022-03-10","2022-03-20",3,2022

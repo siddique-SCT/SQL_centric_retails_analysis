@@ -1,0 +1,17 @@
+"promotion_id","product_id","promotion_name","discount_type","discount_value","start_date","end_date","month","year"
+1,114,"Special Offer on Mountain Dew Can","percentage",20,"2022-09-15","2022-09-29",9,2022
+2,126,"Special Offer on Johnson's Baby Shampoo 200ml","percentage",15,"2022-09-15","2022-09-27",9,2022
+3,54,"Special Offer on Dawn Paratha Plain Pack (5 pcs)","fixed",50,"2022-09-19","2022-10-01",9,2022
+4,83,"Special Offer on Ponam Cornflour 1kg","fixed",200,"2022-09-18","2022-09-25",9,2022
+5,112,"Special Offer on Coca Cola Can","percentage",5,"2022-09-18","2022-09-21",9,2022
+6,21,"Special Offer on Dayfresh Full Cream Milk 250ml","fixed",200,"2022-09-04","2022-09-15",9,2022
+7,150,"Special Offer on Pine Nuts (Chilgoza) 200g","percentage",25,"2022-09-19","2022-09-27",9,2022
+8,76,"Special Offer on Ponam Daal Mix 500g","percentage",25,"2022-09-09","2022-09-23",9,2022
+9,75,"Special Offer on Ponam Black Eyed Beans 500g","percentage",15,"2022-09-01","2022-09-10",9,2022
+10,7,"Special Offer on Kisan Sunflower Oil 1L","percentage",5,"2022-09-01","2022-09-07",9,2022
+11,133,"Special Offer on Borges Olive Oil Extra Virgin 1L","percentage",5,"2022-09-21","2022-09-29",9,2022
+12,10,"Special Offer on Barkat Cooking Oil 1L","fixed",50,"2022-09-03","2022-09-06",9,2022
+13,97,"Special Offer on Garlic (Desi) 250g","percentage",10,"2022-09-22","2022-09-30",9,2022
+14,94,"Special Offer on Green Chillies (Sindh) 250g","percentage",10,"2022-09-15","2022-09-28",9,2022
+15,121,"Special Offer on Maza Mango Juice 1L","fixed",50,"2022-09-05","2022-09-16",9,2022
+16,29,"Special Offer on Dermacos Hydroxy Clay 200g","percentage",20,"2022-09-02","2022-09-06",9,2022
