@@ -116,7 +116,7 @@ Here’s a professional `README.md` for your **RetailCore** project:
 
 ## 📧 Contact
 
-For questions or collaboration, contact the Data Engineering Team at **data@retailcore.com**
+For questions or collaboration, contact the Data Engineering Team Lead Muhammad Siddique at *siddique@softcomputech.com*
 
 ---
 ```
